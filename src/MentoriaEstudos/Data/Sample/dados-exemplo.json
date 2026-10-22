@@ -1,0 +1,474 @@
+{
+  "alunos": [
+    {
+      "matricula": "20481",
+      "nome": "Marina Albuquerque Rocha",
+      "sala": "1º B",
+      "simulados": [
+        {
+          "ciclo": 1,
+          "serie": "1ª Série",
+          "ano": 2026,
+          "linguagens": {
+            "media": 503.32,
+            "faceis": 14,
+            "medias": 3,
+            "dificeis": 0
+          },
+          "humanas": {
+            "media": 492.92,
+            "faceis": 10,
+            "medias": 5,
+            "dificeis": 1
+          },
+          "natureza": {
+            "media": 471.24,
+            "faceis": 14,
+            "medias": 10,
+            "dificeis": 0
+          },
+          "matematica": {
+            "media": 471.49,
+            "faceis": 9,
+            "medias": 2,
+            "dificeis": 0
+          },
+          "redacao": 720,
+          "mediaFinal": 531.79,
+          "classificacao": 117
+        },
+        {
+          "ciclo": 2,
+          "serie": "1ª Série",
+          "ano": 2026,
+          "linguagens": {
+            "media": 505.28,
+            "faceis": 9,
+            "medias": 10,
+            "dificeis": 1
+          },
+          "humanas": {
+            "media": 455.64,
+            "faceis": 14,
+            "medias": 10,
+            "dificeis": 3
+          },
+          "natureza": {
+            "media": 488.7,
+            "faceis": 13,
+            "medias": 6,
+            "dificeis": 0
+          },
+          "matematica": {
+            "media": 480.23,
+            "faceis": 10,
+            "medias": 8,
+            "dificeis": 2
+          },
+          "redacao": 600,
+          "mediaFinal": 505.97,
+          "classificacao": 137
+        },
+        {
+          "ciclo": 3,
+          "serie": "1ª Série",
+          "ano": 2026,
+          "linguagens": {
+            "media": 482.39,
+            "faceis": 11,
+            "medias": 3,
+            "dificeis": 0
+          },
+          "humanas": {
+            "media": 463.16,
+            "faceis": 11,
+            "medias": 7,
+            "dificeis": 4
+          },
+          "natureza": {
+            "media": 441.99,
+            "faceis": 9,
+            "medias": 9,
+            "dificeis": 4
+          },
+          "matematica": {
+            "media": 485.45,
+            "faceis": 12,
+            "medias": 3,
+            "dificeis": 4
+          },
+          "redacao": 760,
+          "mediaFinal": 526.6,
+          "classificacao": 119
+        },
+        {
+          "ciclo": 4,
+          "serie": "1ª Série",
+          "ano": 2026,
+          "linguagens": {
+            "media": 471.38,
+            "faceis": 15,
+            "medias": 7,
+            "dificeis": 4
+          },
+          "humanas": {
+            "media": 507.85,
+            "faceis": 9,
+            "medias": 2,
+            "dificeis": 1
+          },
+          "natureza": {
+            "media": 466.41,
+            "faceis": 9,
+            "medias": 5,
+            "dificeis": 0
+          },
+          "matematica": {
+            "media": 495.61,
+            "faceis": 12,
+            "medias": 7,
+            "dificeis": 1
+          },
+          "redacao": 600,
+          "mediaFinal": 508.25,
+          "classificacao": 125
+        },
+        {
+          "ciclo": 5,
+          "serie": "1ª Série",
+          "ano": 2026,
+          "linguagens": {
+            "media": 510.8,
+            "faceis": 11,
+            "medias": 3,
+            "dificeis": 4
+          },
+          "humanas": {
+            "media": 486.98,
+            "faceis": 13,
+            "medias": 5,
+            "dificeis": 1
+          },
+          "natureza": {
+            "media": 494.77,
+            "faceis": 11,
+            "medias": 10,
+            "dificeis": 1
+          },
+          "matematica": {
+            "media": 535.74,
+            "faceis": 15,
+            "medias": 2,
+            "dificeis": 1
+          },
+          "redacao": 800,
+          "mediaFinal": 565.66,
+          "classificacao": 80
+        },
+        {
+          "ciclo": 6,
+          "serie": "1ª Série",
+          "ano": 2026,
+          "linguagens": {
+            "media": 480.88,
+            "faceis": 12,
+            "medias": 6,
+            "dificeis": 0
+          },
+          "humanas": {
+            "media": 506.44,
+            "faceis": 13,
+            "medias": 7,
+            "dificeis": 1
+          },
+          "natureza": {
+            "media": 465.19,
+            "faceis": 12,
+            "medias": 9,
+            "dificeis": 1
+          },
+          "matematica": {
+            "media": 495.02,
+            "faceis": 10,
+            "medias": 10,
+            "dificeis": 4
+          },
+          "redacao": 720,
+          "mediaFinal": 533.51,
+          "classificacao": 94
+        },
+        {
+          "ciclo": 7,
+          "serie": "1ª Série",
+          "ano": 2026,
+          "linguagens": {
+            "media": 485.55,
+            "faceis": 13,
+            "medias": 8,
+            "dificeis": 2
+          },
+          "humanas": {
+            "media": 465.27,
+            "faceis": 10,
+            "medias": 10,
+            "dificeis": 3
+          },
+          "natureza": {
+            "media": 498.2,
+            "faceis": 9,
+            "medias": 3,
+            "dificeis": 1
+          },
+          "matematica": {
+            "media": 483.08,
+            "faceis": 15,
+            "medias": 8,
+            "dificeis": 4
+          },
+          "redacao": 680,
+          "mediaFinal": 522.42,
+          "classificacao": 116
+        }
+      ]
+    },
+    {
+      "matricula": "20517",
+      "nome": "Lucas Ferreira Antunes",
+      "sala": "3º B",
+      "simulados": [
+        {
+          "ciclo": 1,
+          "serie": "3ª Série",
+          "ano": 2026,
+          "linguagens": {
+            "media": 601.69,
+            "faceis": 12,
+            "medias": 10,
+            "dificeis": 2
+          },
+          "humanas": {
+            "media": 568.54,
+            "faceis": 15,
+            "medias": 2,
+            "dificeis": 0
+          },
+          "natureza": {
+            "media": 512.92,
+            "faceis": 13,
+            "medias": 6,
+            "dificeis": 2
+          },
+          "matematica": {
+            "media": 534.26,
+            "faceis": 12,
+            "medias": 4,
+            "dificeis": 3
+          },
+          "redacao": 760,
+          "mediaFinal": 595.48,
+          "classificacao": 132
+        },
+        {
+          "ciclo": 2,
+          "serie": "3ª Série",
+          "ano": 2026,
+          "linguagens": {
+            "media": 568.61,
+            "faceis": 11,
+            "medias": 10,
+            "dificeis": 1
+          },
+          "humanas": {
+            "media": 566.72,
+            "faceis": 9,
+            "medias": 6,
+            "dificeis": 4
+          },
+          "natureza": {
+            "media": 551.15,
+            "faceis": 10,
+            "medias": 7,
+            "dificeis": 1
+          },
+          "matematica": {
+            "media": 585.92,
+            "faceis": 15,
+            "medias": 10,
+            "dificeis": 0
+          },
+          "redacao": 680,
+          "mediaFinal": 590.48,
+          "classificacao": 42
+        },
+        {
+          "ciclo": 3,
+          "serie": "3ª Série",
+          "ano": 2026,
+          "linguagens": {
+            "media": 551.16,
+            "faceis": 9,
+            "medias": 7,
+            "dificeis": 2
+          },
+          "humanas": {
+            "media": 580.55,
+            "faceis": 10,
+            "medias": 3,
+            "dificeis": 0
+          },
+          "natureza": {
+            "media": 573.27,
+            "faceis": 15,
+            "medias": 3,
+            "dificeis": 4
+          },
+          "matematica": {
+            "media": 555.21,
+            "faceis": 10,
+            "medias": 9,
+            "dificeis": 4
+          },
+          "redacao": 720,
+          "mediaFinal": 596.04,
+          "classificacao": 117
+        },
+        {
+          "ciclo": 4,
+          "serie": "3ª Série",
+          "ano": 2026,
+          "linguagens": {
+            "media": 596.42,
+            "faceis": 12,
+            "medias": 5,
+            "dificeis": 4
+          },
+          "humanas": {
+            "media": 557.92,
+            "faceis": 14,
+            "medias": 5,
+            "dificeis": 2
+          },
+          "natureza": {
+            "media": 587.97,
+            "faceis": 14,
+            "medias": 7,
+            "dificeis": 3
+          },
+          "matematica": {
+            "media": 563.98,
+            "faceis": 12,
+            "medias": 3,
+            "dificeis": 1
+          },
+          "redacao": 640,
+          "mediaFinal": 589.26,
+          "classificacao": 42
+        },
+        {
+          "ciclo": 5,
+          "serie": "3ª Série",
+          "ano": 2026,
+          "linguagens": {
+            "media": 587.08,
+            "faceis": 13,
+            "medias": 10,
+            "dificeis": 1
+          },
+          "humanas": {
+            "media": 548.32,
+            "faceis": 9,
+            "medias": 3,
+            "dificeis": 0
+          },
+          "natureza": {
+            "media": 561.13,
+            "faceis": 9,
+            "medias": 7,
+            "dificeis": 0
+          },
+          "matematica": {
+            "media": 593.14,
+            "faceis": 11,
+            "medias": 9,
+            "dificeis": 1
+          },
+          "redacao": 760,
+          "mediaFinal": 609.93,
+          "classificacao": 113
+        }
+      ]
+    }
+  ],
+  "mentorias": [
+    {
+      "codigo": "D9769B4BA5",
+      "dataHora": "2026-10-05T15:57:44",
+      "mentor": "Carla Mendes",
+      "matriculaAluno": "20481",
+      "analiseTecnica": "Queda em Natureza no ciclo 06, principalmente em questões difíceis de Física.",
+      "indicacaoEstudo": "Revisar cinemática e leis de Newton; resolver 20 questões por semana da lista de Física.",
+      "observacoes": "Aluna relatou cansaço na reta final do simulado.",
+      "obrigatoria": true
+    },
+    {
+      "codigo": "E357BC2859",
+      "dataHora": "2026-09-10T15:18:09",
+      "mentor": "Rafael Oliveira",
+      "matriculaAluno": "20481",
+      "analiseTecnica": "Boa evolução em Linguagens; Matemática estável.",
+      "indicacaoEstudo": "Manter cronograma; incluir 1 redação por semana com correção.",
+      "observacoes": "",
+      "obrigatoria": false
+    },
+    {
+      "codigo": "E6A1048009",
+      "dataHora": "2026-07-06T16:31:49",
+      "mentor": "Juliana Prado",
+      "matriculaAluno": "20481",
+      "analiseTecnica": "Mentoria para orientação sobre recuperação em Humanas.",
+      "indicacaoEstudo": "Fichamento de História do Brasil (República) e mapas mentais de Geografia.",
+      "observacoes": "Responsável ciente.",
+      "obrigatoria": true
+    },
+    {
+      "codigo": "1A03BD1D3A",
+      "dataHora": "2026-06-11T17:24:34",
+      "mentor": "Thiago Martins",
+      "matriculaAluno": "20481",
+      "analiseTecnica": "Primeiro contato; perfil organizado, pouca prática de questões difíceis.",
+      "indicacaoEstudo": "Montagem de cronograma semanal e dicas para resolução de questões.",
+      "observacoes": "",
+      "obrigatoria": false
+    },
+    {
+      "codigo": "56FC5A82C8",
+      "dataHora": "2026-03-26T16:23:19",
+      "mentor": "Carla Mendes",
+      "matriculaAluno": "20481",
+      "analiseTecnica": "Diagnóstico inicial a partir do ciclo 01.",
+      "indicacaoEstudo": "Reajuste do cronograma: adicionar horário fixo para Matemática.",
+      "observacoes": "",
+      "obrigatoria": false
+    },
+    {
+      "codigo": "394E4381A5",
+      "dataHora": "2026-09-22T10:05:12",
+      "mentor": "Rafael Oliveira",
+      "matriculaAluno": "20517",
+      "analiseTecnica": "Desempenho consistente, foco agora em redação.",
+      "indicacaoEstudo": "Treinar repertório sociocultural; 2 redações por semana.",
+      "observacoes": "",
+      "obrigatoria": false
+    },
+    {
+      "codigo": "9184C907D0",
+      "dataHora": "2026-05-14T09:40:00",
+      "mentor": "Juliana Prado",
+      "matriculaAluno": "20517",
+      "analiseTecnica": "Baixo rendimento em Matemática no ciclo 02.",
+      "indicacaoEstudo": "Revisão de funções e porcentagem com lista dirigida.",
+      "observacoes": "Mentoria obrigatória definida pela coordenação.",
+      "obrigatoria": true
+    }
+  ]
+}

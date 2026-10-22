@@ -1,0 +1,39 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <!-- Identidade visual "Mentora": claro acadêmico, primária verde-petróleo #003333 -->
+    <SolidColorBrush x:Key="Primaria" Color="#003333" />
+    <SolidColorBrush x:Key="PrimariaHover" Color="#0A4D4D" />
+    <SolidColorBrush x:Key="PrimariaPressionada" Color="#002222" />
+    <SolidColorBrush x:Key="PrimariaSuave" Color="#E6F0F0" />
+    <SolidColorBrush x:Key="PrimariaSuaveHover" Color="#D2E4E4" />
+
+    <SolidColorBrush x:Key="Acento" Color="#E0A526" />
+    <SolidColorBrush x:Key="AcentoSuave" Color="#FBF1DA" />
+    <SolidColorBrush x:Key="Destaque" Color="#2A9D8F" />
+
+    <SolidColorBrush x:Key="Fundo" Color="#F6F4EF" />
+    <SolidColorBrush x:Key="Superficie" Color="#FFFFFF" />
+    <SolidColorBrush x:Key="SuperficieAlternada" Color="#FBFAF7" />
+    <SolidColorBrush x:Key="Borda" Color="#E3DFD6" />
+    <SolidColorBrush x:Key="BordaForte" Color="#C9C3B6" />
+    <SolidColorBrush x:Key="Linha" Color="#EEEAE2" />
+
+    <SolidColorBrush x:Key="Texto" Color="#1F2430" />
+    <SolidColorBrush x:Key="TextoSecundario" Color="#6B7280" />
+    <SolidColorBrush x:Key="TextoSobrePrimaria" Color="#FFFFFF" />
+
+    <!-- Mentorias obrigatórias -->
+    <SolidColorBrush x:Key="Obrigatoria" Color="#FFF4C2" />
+
+    <!-- Áreas do conhecimento: cor forte (texto/faixa) e suave (fundo do cabeçalho) -->
+    <SolidColorBrush x:Key="AreaLinguagens" Color="#3B6FB6" />
+    <SolidColorBrush x:Key="AreaLinguagensSuave" Color="#EAF0F9" />
+    <SolidColorBrush x:Key="AreaHumanas" Color="#C0623B" />
+    <SolidColorBrush x:Key="AreaHumanasSuave" Color="#F9EDE7" />
+    <SolidColorBrush x:Key="AreaNatureza" Color="#3E8E5A" />
+    <SolidColorBrush x:Key="AreaNaturezaSuave" Color="#E8F3EC" />
+    <SolidColorBrush x:Key="AreaMatematica" Color="#7A5BB5" />
+    <SolidColorBrush x:Key="AreaMatematicaSuave" Color="#F0EBF8" />
+
+</ResourceDictionary>

@@ -1,0 +1,23 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <!-- Ícones vetoriais de traço (grade 24x24) -->
+    <Geometry x:Key="IconeDisquete">M4,3 H16 L21,8 V20 A1,1 0 0 1 20,21 H4 A1,1 0 0 1 3,20 V4 A1,1 0 0 1 4,3 Z M7,3 V8 H15 V3 M7,21 V14 H17 V21</Geometry>
+    <Geometry x:Key="IconeCapelo">M12,4 L22,9 L12,14 L2,9 Z M6,11 V16 C8,18.5 16,18.5 18,16 V11 M22,9 V15</Geometry>
+    <Geometry x:Key="IconeBusca">M10.5,4 A6.5,6.5 0 1 0 10.5,17 A6.5,6.5 0 1 0 10.5,4 Z M15.2,15.2 L20,20</Geometry>
+    <Geometry x:Key="IconeHistorico">M3,12 A9,9 0 1 0 6,5.3 M3,4 V9 H8 M12,7 V12 L15.5,14</Geometry>
+    <Geometry x:Key="IconeGrafico">M4,20 V4 M4,20 H20 M8,16 V12 M12,16 V8 M16,16 V10</Geometry>
+    <Geometry x:Key="IconeCaneta">M4,20 H8 L19,9 A2.1,2.1 0 0 0 15,5 L4,16 Z M13.5,6.5 L17.5,10.5</Geometry>
+
+    <Style x:Key="Icone" TargetType="Path">
+        <Setter Property="Width" Value="16" />
+        <Setter Property="Height" Value="16" />
+        <Setter Property="Stretch" Value="Uniform" />
+        <Setter Property="StrokeThickness" Value="1.8" />
+        <Setter Property="StrokeLineJoin" Value="Round" />
+        <Setter Property="StrokeStartLineCap" Value="Round" />
+        <Setter Property="StrokeEndLineCap" Value="Round" />
+        <Setter Property="SnapsToDevicePixels" Value="True" />
+    </Style>
+
+</ResourceDictionary>
