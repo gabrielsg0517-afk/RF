@@ -40,12 +40,42 @@ Humanas terracota, Natureza verde, Matemática roxo). As cores ficam em
 
 ## Como executar (Windows)
 
-```
-dotnet run --project src/MentoriaEstudos
-```
+Dados de exemplo: matrículas **20481** e **20517** (digite e pressione Enter).
 
-Ou abra `MentoriaEstudos.sln` no Visual Studio 2022. Dados de exemplo: matrículas **20481** e
-**20517** (digite e pressione Enter).
+### Opção A — executável pronto (não precisa instalar nada)
+
+1. Descompacte `Mentora-win-x64.zip` em uma pasta.
+2. Dê duplo clique em `MentoriaEstudos.exe` (mantenha a pasta `Data` ao lado dele).
+3. Se o Windows SmartScreen avisar, clique em **Mais informações → Executar assim mesmo**.
+
+### Opção B — a partir do código-fonte
+
+O comando `dotnet run` exige o **.NET 8 SDK**. Ter apenas o runtime do .NET instalado causa o
+erro *"No .NET SDKs were found"*.
+
+1. Instale o SDK, pelo cmd/PowerShell:
+   ```
+   winget install Microsoft.DotNet.SDK.8
+   ```
+   ou baixe em https://dotnet.microsoft.com/download/dotnet/8.0 (coluna **SDK**, Windows x64).
+2. Feche e reabra o cmd e confira se aparece uma versão 8.x:
+   ```
+   dotnet --list-sdks
+   ```
+3. Entre na pasta do repositório e execute:
+   ```
+   cd caminho\para\RF
+   dotnet run --project src/MentoriaEstudos
+   ```
+
+Também é possível abrir `MentoriaEstudos.sln` no Visual Studio 2022, com a carga de trabalho
+**Desenvolvimento para desktop com .NET** instalada, e pressionar F5.
+
+Para gerar o executável da Opção A:
+
+```
+dotnet publish src/MentoriaEstudos -c Release -r win-x64 --self-contained true -p:PublishSingleFile=true -p:IncludeNativeLibrariesForSelfExtract=true -o publish
+```
 
 ## Base de dados
 
